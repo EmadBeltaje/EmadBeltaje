@@ -14,14 +14,7 @@
 </p>
 
 
-<h3>Trophies 🏆:</h3>
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=emadbeltaje&theme=onedark&margin-h=15&margin-w=15&column=4">
-    <img src="https://github-profile-trophy.vercel.app/?username=emadbeltaje&margin-w=15&margin-h=15&column=4" alt="emadbeltaje" />
-  </picture>
-</p>
-
+<br/>
 <h3>Open source projects 🌟:</h3>
 <table>
   <thead align="left">
@@ -54,6 +47,19 @@
   </tbody>
 </table> 
 
+
+<br/>
+<h3>Trophies 🏆:</h3>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=emadbeltaje&theme=onedark&margin-h=15&margin-w=15&column=4">
+    <img src="https://github-profile-trophy.vercel.app/?username=emadbeltaje&margin-w=15&margin-h=15&column=4" alt="emadbeltaje" />
+  </picture>
+</p>
+
+
+
+<br/>
 <h3>Things I code with 👨🏻‍💻:</h3>
 <p align="left">
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -76,6 +82,7 @@
 </p>
 
 
+<br/>
 <h3>Streak 🔥:</h3>
 <p align="left">
   <picture>
@@ -96,6 +103,7 @@
 </p>
 
 
+<br/>
 <h3>Where to find me 🗺️</h3>
 <p align="left">
 <a href="mailto:emadbeltaje@gmail.com" target="_blank">
