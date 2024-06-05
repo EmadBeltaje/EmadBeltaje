@@ -5,7 +5,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page 👋, </br> I'm Emad, Mobile Apps developer from <b>🇵🇸 Palesitne, Gaza</b>.<p/>
+<p>Welcome to my page 👋, </br> I'm Emad, Mobile Apps developer from <b>🇵🇸 Palesitne, Gaza</b> Currently live in <b>🇪🇬 Egypt, Cairo</b>.<p/>
 
 
 <p align="left">
@@ -109,7 +109,7 @@
 <a href="mailto:emadbeltaje@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/972595195630" target="_blank">
+  <a href="https://wa.me/201112922252" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
    <a href="https://facebook.com/EmadBeltaje" target="_blank">
