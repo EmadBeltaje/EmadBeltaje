@@ -1,11 +1,5 @@
-
-
-
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-
-<p>Welcome to my page 👋, </br> I'm Emad, Mobile Apps developer from <b>🇵🇸 Palesitne, Gaza</b> Currently live in <b>🇪🇬 Egypt, Cairo</b>.<p/>
+<h1>Welcome to my profile.<img src="https://raw.githubusercontent.com/kevinwuhoo/slackmojis/main/emojis/Random/blueheart_spin.gif" width="30"/></h1>
+<p>My name is Emad and iam a Mobile App developer from <b>🇵🇸 Palesitne, Gaza</b> Currently live in <b>🇪🇬 Egypt, Cairo</b>.<p/>
 
 
 <p align="left">
@@ -15,14 +9,14 @@
 
 
 <br/>
-<h3>Open source projects 🌟:</h3>
+<h3>Open source projects <img src="https://emoji.discadia.com/emojis/bdc677ee-ce38-4c9d-bb50-cda8ca0d6775.GIF" width="25"/>:</h3>
 <table>
   <thead align="left">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
+      <td><b>Projects 🎁</b></td>
+      <td><b>Stars ⭐</b></td>
+      <td><b>Forks 🔗</b></td>
+      <td><b>Issues 🪲</b></td>
     </tr>
   </thead>
   <tbody>
@@ -31,6 +25,12 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/flutter_getx_template?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/flutter_getx_template?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/flutter_getx_template?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/EmadBeltaje/gaza_flutter_cleaner"><b>Gaza Flutter Cleaner</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/gaza_flutter_cleaner?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/gaza_flutter_cleaner?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/gaza_flutter_cleaner?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/EmadBeltaje/firebase_cloud_functions_emulator"><b>Firebase Cloud Functions Emulator</b></a></td>
@@ -49,7 +49,37 @@
 
 
 <br/>
-<h3>Trophies 🏆:</h3>
+<h3>Major Pull Requests <img src="https://emoji.discadia.com/emojis/5590e764-0723-4878-b5e7-e82a600fd435.gif" width="30"/>:</h3>
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>Pull Requests 🔀</b></td>
+      <td><b>Status 🚦</b></td>
+      <td><b>Description 📝</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/onepub-dev/dcli/pull/249"><b>dcli</b></a></td>
+      <td style="text-align: center;">Merged ✅</td>
+      <td>Add new feature</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AbdQader/flutter_ecommerce_app/pull/1"><b>flutter_ecommerce_app</b></a></td>
+      <td>Merged ✅</td>
+      <td>Update old project</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/felangel/mason/pull/1391"><b>Mason</b></a></td>
+      <td>Reviwing ⏳</td>
+      <td>Add new feature</td>
+    </tr>
+  </tbody>
+</table> 
+
+
+<br/>
+<h3>Trophies <img src="https://emoji.discadia.com/emojis/e6c0ee26-1d9d-4fbe-9273-e93c21a21569.gif" width="25"/>:</h3>
 <p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=emadbeltaje&theme=onedark&margin-h=15&margin-w=15&column=4">
