@@ -1,11 +1,13 @@
-<h1>Welcome to my profile.<img src="https://raw.githubusercontent.com/kevinwuhoo/slackmojis/main/emojis/Random/blueheart_spin.gif" width="30"/></h1>
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 <p>My name is Emad and iam a Mobile App developer from <b>🇵🇸 Palesitne, Gaza</b> Currently live in <b>🇪🇬 Egypt, Cairo</b>.<p/>
 
 
+<!--
 <p align="left">
   <img src="https://img.shields.io/github/followers/EmadBeltaje?color=1f222e&label=Followers&style=social" alt="EmadBeltaje" /> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=emadbeltaje&label=Profile%20views&color=0e75b6&style=flat" alt="emadbeltaje" />
 </p>
+-->
 
 
 <br/>
@@ -45,6 +47,24 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/flutter_slidable?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
+</table>
+
+
+<br/>
+<h3>Pub.dev Packages <img src="https://emoji.discadia.com/emojis/7f2cd72f-c281-45ea-a4b3-3b98e439c1b8.GIF" width="20" />:</h3>
+<table>
+  <thead align="left">
+    <tr border: none;>
+      <td><b>Packages 📦</b></td>
+      <td><b>Description 📙</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://pub.dev/packages/gaza_flutter_cleaner"><b>Gaza Flutter Cleaner</b></a></td>
+      <td>Clean all your flutter projects with one command.</td>
+    </tr>
+  </tbody>
 </table> 
 
 
@@ -65,7 +85,7 @@
       <td>Add new feature</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AbdQader/flutter_ecommerce_app/pull/1"><b>flutter_ecommerce_app</b></a></td>
+      <td><a href="https://github.com/AbdQader/flutter_ecommerce_app/pull/1"><b>ecommerce_app</b></a></td>
       <td>Merged ✅</td>
       <td>Update old project</td>
     </tr>
@@ -88,9 +108,22 @@
 </p>
 
 
+<br/>
+<h3>Streak <img src="https://emoji.discadia.com/emojis/41f99f7a-5727-4d0e-a211-4380030d5b55.GIF" width="30"/>:</h3>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=emadbeltaje&show_icons=true&locale=en&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=emadbeltaje&show_icons=true&locale=en" alt="emadbeltaje" />
+  </picture>&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=emadbeltaje&theme=dark">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=emadbeltaje&" alt="emadbeltaje" />
+  </picture>
+</p>
+
 
 <br/>
-<h3>Things I code with 👨🏻‍💻:</h3>
+<h3>Things I code with <img src="https://emoji.discadia.com/emojis/PusheenCompute.gif" width="30"/> :</h3>
 <p align="left">
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -113,28 +146,7 @@
 
 
 <br/>
-<h3>Streak 🔥:</h3>
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=emadbeltaje&show_icons=true&locale=en&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api?username=emadbeltaje&show_icons=true&locale=en" alt="emadbeltaje" />
-  </picture>&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=emadbeltaje&show_icons=true&locale=en&layout=compact&theme=dark">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=emadbeltaje&show_icons=true&locale=en&layout=compact" alt="emadbeltaje" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=emadbeltaje&theme=dark">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emadbeltaje&" alt="emadbeltaje" />
-  </picture>
-</p>
-
-
-<br/>
-<h3>Where to find me 🗺️</h3>
+<h3>Where to find me <img src="https://emoji.discadia.com/emojis/ad11a247-18c5-4e97-bf6c-cdfc85b7ca0d.GIF" width="20"/></h3>
 <p align="left">
 <a href="mailto:emadbeltaje@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -152,3 +164,7 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
+
+<br/>
+<h3>Support 👏🏻</h3>
+<p>Dont forget to take a look on my projects and follow me for updates ⭐️</p>
