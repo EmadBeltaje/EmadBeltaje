@@ -91,7 +91,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/felangel/mason/pull/1391"><b>Mason</b></a></td>
-      <td>Reviwing ⏳</td>
+      <td>Merged ✅</td>
       <td>Add new feature</td>
     </tr>
   </tbody>
