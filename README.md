@@ -110,16 +110,7 @@
 
 <br/>
 <h3>Streak <img src="https://emoji.discadia.com/emojis/41f99f7a-5727-4d0e-a211-4380030d5b55.GIF" width="30"/>:</h3>
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=emadbeltaje&show_icons=true&locale=en&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api?username=emadbeltaje&show_icons=true&locale=en" alt="emadbeltaje" />
-  </picture>&nbsp;&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=emadbeltaje&theme=dark">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=emadbeltaje&" alt="emadbeltaje" />
-  </picture>
-</p>
+<table border="0" style="border: none"><tr style="border: none"><td style="border: none"><picture style="border: none"><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=emadbeltaje&show_icons=true&locale=en&theme=dark"><img src="https://github-readme-stats.vercel.app/api?username=emadbeltaje&show_icons=true&locale=en" alt="emadbeltaje" /></picture></td><td style="padding-left: 20px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=emadbeltaje&theme=dark"><img src="https://github-readme-streak-stats.herokuapp.com/?user=emadbeltaje&" alt="emadbeltaje" /></picture></td></tr></table>
 
 
 <br/>
