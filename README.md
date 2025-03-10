@@ -67,7 +67,7 @@
   </tbody>
   <tbody>
     <tr>
-      <td><a href="https://pub.dev/packages/gaza_flutter_cleaner"><b>Gaza Flutter Cleaner</b></a></td>
+      <td><a href="https://pub.dev/packages/otp_resend_timer"><b>Otp Resend Timer</b></a></td>
       <td>Flutter widget that handle timer and resend functionality</td>
     </tr>
   </tbody>
