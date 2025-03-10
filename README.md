@@ -41,10 +41,10 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/firebase_cloud_functions_emulator?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/EmadBeltaje/flutter_slidable"><b>Flutter Slidable</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/flutter_slidable?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/flutter_slidable?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/flutter_slidable?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/EmadBeltaje/flutter_slidable"><b>Otp Resend Timer</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/otp_resend_timer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/otp_resend_timer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/otp_resend_timer?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -63,6 +63,12 @@
     <tr>
       <td><a href="https://pub.dev/packages/gaza_flutter_cleaner"><b>Gaza Flutter Cleaner</b></a></td>
       <td>Clean all your flutter projects with one command.</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td><a href="https://pub.dev/packages/gaza_flutter_cleaner"><b>Gaza Flutter Cleaner</b></a></td>
+      <td>Flutter widget that handle timer and resend functionality</td>
     </tr>
   </tbody>
 </table> 
