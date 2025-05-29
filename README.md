@@ -46,6 +46,12 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/otp_resend_timer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/otp_resend_timer?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/EmadBeltaje/dart_unused_files"><b>Dart Unused Files</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/dart_unused_files?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/dart_unused_files?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/dart_unused_files?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
@@ -61,14 +67,20 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://pub.dev/packages/gaza_flutter_cleaner"><b>Gaza Flutter Cleaner</b></a></td>
+      <td><a href="https://pub.dev/packages/gaza_flutter_cleaner"><b>gaza_flutter_cleaner</b></a></td>
       <td>Clean all your flutter projects with one command.</td>
     </tr>
   </tbody>
   <tbody>
     <tr>
-      <td><a href="https://pub.dev/packages/otp_resend_timer"><b>Otp Resend Timer</b></a></td>
+      <td><a href="https://pub.dev/packages/otp_resend_timer"><b>otp_resend_timer</b></a></td>
       <td>Flutter widget that handle timer and resend functionality</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td><a href="https://pub.dev/packages/dart_unused_files"><b>dart_unused_files</b></a></td>
+      <td>Detect all unused files on your flutter project.</td>
     </tr>
   </tbody>
 </table> 
