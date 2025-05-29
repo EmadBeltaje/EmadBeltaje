@@ -1,5 +1,37 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-<p>My name is Emad and iam a Mobile App developer from <b>🇵🇸 Palesitne, Gaza</b> Currently live in <b>🇪🇬 Egypt, Cairo</b>.<p/>
+<h1>
+  Hello, folks! 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" alt="waving hand" />
+</h1>
+
+<p>My name is <strong>Emad</strong>, and I am a Software Engineer from <strong>Palestine, Gaza 🇵🇸</strong>. Currently, I live in <strong>Cairo, Egypt 🇪🇬</strong>.</p>
+
+<hr/>
+
+<h3>A bit about me: <img src="https://emoji.discadia.com/emojis/8011ddee-f73b-4216-87af-38dc674a1cb8.gif" height="20" alt="coding" /></h3>
+
+- Currently working as **Senior Software Engineer** at [**Nabeeh**](https://www.nabeehapp.com/) 🧡
+
+- Team leader, I manage teams, split tasks, plan projects, and automate testing, delivering, and publishing 🚀  
+ 
+- Problem solver and automation expert, I like things to be done by itself 😁  
+ 
+- Maintainer of open-source tooling for Dart & Flutter developers 🎯  
+ 
+- Published many open-source packages on pub.dev 📦  
+ 
+- Open source contributor, opened PR's on some of the most famous Dart/Flutter packages 🔥
+
+<!--
+<ul>
+  <li>Currently working as <strong>Senior Softawre Engineer</strong> at <a href="https://www.nabeehapp.com/"><strong>Nabeeh</strong></a></li>
+  <li>Team leader, i manage teams, split tasks, plan projects, and automate testing, delivering and publishing 🚀</li>
+  <li>Problem solver and automation expert, i like things to be done by it self 😁</li>
+  <li>Maintainer of open-source tooling for Dart & Flutter developers 🎯</li>
+  <li>Published many open source packages on pub.dev 📦</li>
+  <li>Open source contributor, opened PR's on some of the most famous dart/flutter packages 🔥</li>
+</ul>
+-->
+
 
 
 <!--
@@ -60,30 +92,35 @@
 <h3>Pub.dev Packages <img src="https://emoji.discadia.com/emojis/7f2cd72f-c281-45ea-a4b3-3b98e439c1b8.GIF" width="20" />:</h3>
 <table>
   <thead align="left">
-    <tr border: none;>
+    <tr>
       <td><b>Packages 📦</b></td>
       <td><b>Description 📙</b></td>
+      <td><b>Version 🏷️</b></td>
+      <td><b>Likes ❤️</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://pub.dev/packages/gaza_flutter_cleaner"><b>gaza_flutter_cleaner</b></a></td>
       <td>Clean all your flutter projects with one command.</td>
+      <td><img src="https://img.shields.io/pub/v/gaza_flutter_cleaner" alt="version"></td>
+      <td><img src="https://img.shields.io/badge/likes-28-blue" alt="likes"></td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td><a href="https://pub.dev/packages/otp_resend_timer"><b>otp_resend_timer</b></a></td>
       <td>Flutter widget that handle timer and resend functionality</td>
+      <td><img src="https://img.shields.io/pub/v/otp_resend_timer" alt="version"></td>
+      <td><img src="https://img.shields.io/badge/likes-9-blue" alt="likes"></td>
     </tr>
-  </tbody>
-  <tbody>
     <tr>
       <td><a href="https://pub.dev/packages/dart_unused_files"><b>dart_unused_files</b></a></td>
       <td>Detect all unused files on your flutter project.</td>
+      <td><img src="https://img.shields.io/pub/v/dart_unused_files" alt="version"></td>
+      <td><img src="https://img.shields.io/badge/likes-7-blue" alt="likes"></td>
     </tr>
   </tbody>
-</table> 
+</table>
+
 
 
 <br/>
@@ -112,6 +149,11 @@
       <td>Merged ✅</td>
       <td>Add new feature</td>
     </tr>
+     <tr>
+      <td><a href="https://github.com/jonataslaw/get_cli/pull/275"><b>get_cli</b></a></td>
+      <td>Open ⏳</td>
+      <td>Support GetX v5</td>
+    </tr>
   </tbody>
 </table> 
 
@@ -132,7 +174,8 @@
 
 
 <br/>
-<h3>Things I code with <img src="https://emoji.discadia.com/emojis/PusheenCompute.gif" width="30"/> :</h3>
+<h3>Tech Stack <img src="https://emoji.discadia.com/emojis/PusheenCompute.gif" width="30"/> :</h3>
+<!--
 <p align="left">
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -152,10 +195,16 @@
 <img alt="AdobeXD" src="https://img.shields.io/badge/Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+-->
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,java,kotlin,swift,nodejs,express,mongodb,mysql,firebase,html,css,bootstrap,jquery,androidstudio,figma,postman,gradle,githubactions,markdown&perline=10" />
+</p>
+
 
 
 <br/>
 <h3>Where to find me <img src="https://emoji.discadia.com/emojis/ad11a247-18c5-4e97-bf6c-cdfc85b7ca0d.GIF" width="20"/></h3>
+<!--
 <p align="left">
 <a href="mailto:emadbeltaje@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -173,7 +222,28 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
+-->
+
+<p>
+  <a href="mailto:emadbeltaje@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/%20Gmail-emadbeltaje@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/201112922252" target="_blank">
+    <img src="https://img.shields.io/badge/%20WhatsApp-Text%20Me-25D366?style=flat&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://t.me/EmadBeltaje" target="_blank">
+    <img src="https://img.shields.io/badge/%20Telegram-@EmadBeltaje-2CA5E0?style=flat&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/EmadBeltaje" target="_blank">
+    <img src="https://img.shields.io/badge/%20Facebook-Follow%20Me-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/EmadBeltaje" target="_blank">
+    <img src="https://img.shields.io/badge/%20Discord-EmadBeltaje-5865F2?style=flat&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+
 
 <br/>
-<h3>Support 👏🏻</h3>
-<p>Dont forget to take a look on my projects and follow me for updates ⭐️</p>
+<h3>Support <img src="https://emoji.discadia.com/emojis/de5c071f-8ae4-4144-83b2-f0cfe9f74e42.gif" height="20"/></h3>
+<p>Dont forget to take a look on my open source projects and follow me for updates.</p>
