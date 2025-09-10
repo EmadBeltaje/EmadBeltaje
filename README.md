@@ -73,7 +73,7 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/firebase_cloud_functions_emulator?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/EmadBeltaje/flutter_slidable"><b>Otp Resend Timer</b></a></td>
+      <td><a href="https://github.com/EmadBeltaje/otp_resend_timer"><b>Otp Resend Timer</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/otp_resend_timer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/otp_resend_timer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/otp_resend_timer?style=flat-square&labelColor=343b41"/></td>
