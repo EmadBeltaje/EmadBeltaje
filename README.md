@@ -104,19 +104,19 @@
       <td><a href="https://pub.dev/packages/gaza_flutter_cleaner"><b>gaza_flutter_cleaner</b></a></td>
       <td>Clean all your flutter projects with one command.</td>
       <td><img src="https://img.shields.io/pub/v/gaza_flutter_cleaner" alt="version"></td>
-      <td><img src="https://img.shields.io/badge/likes-28-blue" alt="likes"></td>
+      <td><img src="https://img.shields.io/badge/likes-32-blue" alt="likes"></td>
     </tr>
     <tr>
       <td><a href="https://pub.dev/packages/otp_resend_timer"><b>otp_resend_timer</b></a></td>
       <td>Flutter widget that handle timer and resend functionality</td>
       <td><img src="https://img.shields.io/pub/v/otp_resend_timer" alt="version"></td>
-      <td><img src="https://img.shields.io/badge/likes-9-blue" alt="likes"></td>
+      <td><img src="https://img.shields.io/badge/likes-11-blue" alt="likes"></td>
     </tr>
     <tr>
       <td><a href="https://pub.dev/packages/dart_unused_files"><b>dart_unused_files</b></a></td>
       <td>Detect all unused files on your flutter project.</td>
       <td><img src="https://img.shields.io/pub/v/dart_unused_files" alt="version"></td>
-      <td><img src="https://img.shields.io/badge/likes-7-blue" alt="likes"></td>
+      <td><img src="https://img.shields.io/badge/likes-20-blue" alt="likes"></td>
     </tr>
   </tbody>
 </table>
