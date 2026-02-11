@@ -7,6 +7,25 @@
 
 <hr/>
 
+<h3>Community contirbution: <img src="https://emoji.discadia.com/emojis/afb02e37-39c1-4a37-bfb2-5373c7493eef.GIF" height="30"/></h3>
+
+<table>
+  <tr>
+    <td align="center">
+      <h2>+545 ⭐</h2>
+      <p><strong>GitHub Stars</strong></p>
+      <p>open-source projects</p>
+    </td>
+    <td align="center">
+      <h2>+63 ❤️</h2>
+      <p><strong>pub.dev Likes</strong></p>
+      <p>published packages</p>
+    </td>
+  </tr>
+</table>
+
+<hr/>
+
 <h3>A bit about me: <img src="https://emoji.discadia.com/emojis/8011ddee-f73b-4216-87af-38dc674a1cb8.gif" height="20" alt="coding" /></h3>
 
 - Currently working as **Senior Software Engineer** at [**Nabeeh**](https://www.nabeehapp.com/) 🧡
@@ -158,6 +177,7 @@
 </table> 
 
 
+<!-- 
 <br/>
 <h3>Trophies <img src="https://emoji.discadia.com/emojis/e6c0ee26-1d9d-4fbe-9273-e93c21a21569.gif" width="25"/>:</h3>
 <p align="left">
@@ -175,7 +195,7 @@
 
 <br/>
 <h3>Tech Stack <img src="https://emoji.discadia.com/emojis/PusheenCompute.gif" width="30"/> :</h3>
-<!--
+
 <p align="left">
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -195,11 +215,11 @@
 <img alt="AdobeXD" src="https://img.shields.io/badge/Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
--->
+
 <p>
   <img src="https://skillicons.dev/icons?i=dart,flutter,java,kotlin,swift,nodejs,express,mongodb,mysql,firebase,html,css,bootstrap,jquery,androidstudio,figma,postman,gradle,githubactions,markdown&perline=10" />
 </p>
-
+ -->
 
 
 <br/>
