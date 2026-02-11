@@ -14,12 +14,10 @@
     <td align="center">
       <h2>+545 ⭐</h2>
       <p><strong>GitHub Stars</strong></p>
-      <p>open-source projects</p>
     </td>
     <td align="center">
       <h2>+63 ❤️</h2>
       <p><strong>pub.dev Likes</strong></p>
-      <p>published packages</p>
     </td>
   </tr>
 </table>
