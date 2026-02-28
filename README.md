@@ -171,6 +171,11 @@
       <td>Open ⏳</td>
       <td>Support GetX v5</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/payfort/flutter-amazonpaymentservices/pull/39"><b>Amazon Payfort</b></a></td>
+      <td>Open ⏳</td>
+      <td>Support Latest Flutter versions</td>
+    </tr>
   </tbody>
 </table> 
 
