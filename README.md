@@ -101,6 +101,12 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/dart_unused_files?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/dart_unused_files?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/EmadBeltaje/dart_unused_files"><b>IOS upload automation</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/cursor-appstore-upload-rules?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/cursor-appstore-upload-rules?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/cursor-appstore-upload-rules?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
