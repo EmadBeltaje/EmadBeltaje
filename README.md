@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td align="center">
-      <h2>+552 ⭐</h2>
+      <h2>+555 ⭐</h2>
       <p><strong>GitHub Stars</strong></p>
     </td>
     <td align="center">
