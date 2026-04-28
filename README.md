@@ -12,11 +12,11 @@
 <table>
   <tr>
     <td align="center">
-      <h2>+555 ⭐</h2>
+      <h2>+560 ⭐</h2>
       <p><strong>GitHub Stars</strong></p>
     </td>
     <td align="center">
-      <h2>+63 ❤️</h2>
+      <h2>+65 ❤️</h2>
       <p><strong>pub.dev Likes</strong></p>
     </td>
   </tr>
