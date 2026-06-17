@@ -141,6 +141,12 @@
       <td><img src="https://img.shields.io/pub/v/dart_unused_files" alt="version"></td>
       <td><img src="https://img.shields.io/badge/likes-20-blue" alt="likes"></td>
     </tr>
+    <tr>
+      <td><a href="https://pub.dev/packages/azkary"><b>Azkary</b></a></td>
+      <td>Add azkar to your app in the fastest & easiest way.</td>
+      <td><img src="https://img.shields.io/pub/v/azkary" alt="version"></td>
+      <td><img src="https://img.shields.io/badge/likes-6-blue" alt="likes"></td>
+    </tr>
   </tbody>
 </table>
 
