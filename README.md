@@ -147,6 +147,12 @@
       <td><img src="https://img.shields.io/pub/v/azkary" alt="version"></td>
       <td><img src="https://img.shields.io/badge/likes-6-blue" alt="likes"></td>
     </tr>
+    <tr>
+      <td><a href="https://pub.dev/packages/dental_teeth_selector"><b>dental_teeth_selector</b></a></td>
+      <td>Teeth selector widget</td>
+      <td><img src="https://img.shields.io/pub/v/dental_teeth_selector" alt="version"></td>
+      <td><img src="https://img.shields.io/badge/likes-2-blue" alt="likes"></td>
+    </tr>
   </tbody>
 </table>
 
