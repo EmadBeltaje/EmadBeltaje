@@ -19,6 +19,14 @@
       <h2>+65 ❤️</h2>
       <p><strong>pub.dev Likes</strong></p>
     </td>
+    <td align="center">
+      <h2>5 📦</h2>
+      <p><strong>Packages</strong></p>
+    </td>
+    <td align="center">
+      <h2>12 🧡</h2>
+      <p><strong>Open source project</strong></p>
+    </td>
   </tr>
 </table>
 
