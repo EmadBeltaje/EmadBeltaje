@@ -16,7 +16,7 @@
       <p><strong>GitHub Stars</strong></p>
     </td>
     <td align="center">
-      <h2>+65 ❤️</h2>
+      <h2>+85 ❤️</h2>
       <p><strong>pub.dev Likes</strong></p>
     </td>
     <td align="center">
@@ -147,19 +147,19 @@
       <td><a href="https://pub.dev/packages/dart_unused_files"><b>dart_unused_files</b></a></td>
       <td>Detect all unused files on your flutter project.</td>
       <td><img src="https://img.shields.io/pub/v/dart_unused_files" alt="version"></td>
-      <td><img src="https://img.shields.io/badge/likes-20-blue" alt="likes"></td>
+      <td><img src="https://img.shields.io/badge/likes-21-blue" alt="likes"></td>
     </tr>
     <tr>
       <td><a href="https://pub.dev/packages/azkary"><b>Azkary</b></a></td>
       <td>Add azkar to your app in the fastest & easiest way.</td>
       <td><img src="https://img.shields.io/pub/v/azkary" alt="version"></td>
-      <td><img src="https://img.shields.io/badge/likes-6-blue" alt="likes"></td>
+      <td><img src="https://img.shields.io/badge/likes-7-blue" alt="likes"></td>
     </tr>
     <tr>
       <td><a href="https://pub.dev/packages/dental_teeth_selector"><b>dental_teeth_selector</b></a></td>
       <td>Teeth selector widget</td>
       <td><img src="https://img.shields.io/pub/v/dental_teeth_selector" alt="version"></td>
-      <td><img src="https://img.shields.io/badge/likes-5-blue" alt="likes"></td>
+      <td><img src="https://img.shields.io/badge/likes-9-blue" alt="likes"></td>
     </tr>
   </tbody>
 </table>
