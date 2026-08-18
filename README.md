@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" alt="waving hand" />
 </h1>
 
-<p>My name is <strong>Emad</strong>, and I am a Software Engineer from <strong>Palestine, Gaza 🇵🇸</strong>. Currently, I live in <strong>Cairo, Egypt 🇪🇬</strong>.</p>
+<p>My name is <strong>Emad</strong>, and I am a Mobile Engineer from <strong>Palestine, Gaza 🇵🇸</strong>. Currently, I live in <strong>Cairo, Egypt 🇪🇬</strong>.</p>
 
 <hr/>
 
@@ -24,7 +24,11 @@
       <p><strong>Packages</strong></p>
     </td>
     <td align="center">
-      <h2>12 🧡</h2>
+      <h2>1 🎮</h2>
+      <p><strong>Games</strong></p>
+    </td>
+    <td align="center">
+      <h2>13 🧡</h2>
       <p><strong>Open source project</strong></p>
     </td>
   </tr>
@@ -32,7 +36,7 @@
 
 <hr/>
 
-<h3>A bit about me: <img src="https://emoji.discadia.com/emojis/8011ddee-f73b-4216-87af-38dc674a1cb8.gif" height="20" alt="coding" /></h3>
+<!-- <h3>A bit about me: <img src="https://emoji.discadia.com/emojis/8011ddee-f73b-4216-87af-38dc674a1cb8.gif" height="20" alt="coding" /></h3>
 
 - Currently working as **Senior Software Engineer** at [**Nabeeh**](https://www.nabeehapp.com/) 🧡
 
@@ -44,7 +48,7 @@
  
 - Published many open-source packages on pub.dev 📦  
  
-- Open source contributor, opened PR's on some of the most famous Dart/Flutter packages 🔥
+- Open source contributor, opened PR's on some of the most famous Dart/Flutter packages 🔥 -->
 
 <!--
 <ul>
@@ -164,6 +168,22 @@
   </tbody>
 </table>
 
+<br/>
+<h3>Games (Flutter Flame) <img src="https://emoji.discadia.com/emojis/5ad2b0ea-2007-4b8c-80a3-fa600b4e8ec4.GIF" width="30"/>:</h3>
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>Game</b></td>
+      <td><b>Description</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/emadbeltaje/flutter-flame-coloring-game"><b>Coloring Game</b></a></td>
+      <td style="text-align: center;">Coloring game for kids with relaxing music 🎶</td>
+    </tr>
+  </tbody>
+</table> 
 
 
 <br/>
