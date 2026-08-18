@@ -313,6 +313,19 @@
 
 
 
-<br/>
+<!-- <br/>
 <h3>Support <img src="https://emoji.discadia.com/emojis/de5c071f-8ae4-4144-83b2-f0cfe9f74e42.gif" height="20"/></h3>
-<p>Dont forget to take a look on my open source projects and follow me for updates.</p>
+<p>Dont forget to take a look on my open source projects and follow me for updates.</p> -->
+
+<br/>
+<h3>Technical Expertise <img src="https://emoji.discadia.com/emojis/caecbd46-4ce8-458b-9836-7e5f5863109b.gif" height="20"/>:</h3>
+<ul>
+  <li>Dart & Flutter</li>
+  <li>PHP & Laravel</li>
+  <li>REST API Development</li>
+  <li>MySQL</li>
+  <li>Clean Architecture</li>
+  <li>CI/CD & App Deployment</li>
+  <li>AI-Assisted Development</li>
+  <li>Open Source Development</li>
+</ul>
