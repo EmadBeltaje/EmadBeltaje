@@ -28,7 +28,7 @@
       <p><strong>Games</strong></p>
     </td>
     <td align="center">
-      <h2>13 🧡</h2>
+      <h2>12 🧡</h2>
       <p><strong>Open source project</strong></p>
     </td>
   </tr>
