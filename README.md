@@ -101,12 +101,12 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/firebase_cloud_functions_emulator?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/firebase_cloud_functions_emulator?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td><a href="https://github.com/EmadBeltaje/otp_resend_timer"><b>Otp Resend Timer</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/otp_resend_timer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/otp_resend_timer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/otp_resend_timer?style=flat-square&labelColor=343b41"/></td>
-    </tr>
+    </tr> -->
     <tr>
       <td><a href="https://github.com/EmadBeltaje/dart_unused_files"><b>Dart Unused Files</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/dart_unused_files?style=flat-square&labelColor=343b41"/></td>
@@ -114,7 +114,7 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/dart_unused_files?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/EmadBeltaje/dart_unused_files"><b>IOS upload automation</b></a></td>
+      <td><a href="https://github.com/EmadBeltaje/cursor-appstore-upload-rules"><b>IOS upload automation</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/cursor-appstore-upload-rules?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/cursor-appstore-upload-rules?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/cursor-appstore-upload-rules?style=flat-square&labelColor=343b41"/></td>
