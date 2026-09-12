@@ -1,13 +1,13 @@
-<h1>
+<!--<h1>
   Hello, folks! 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" alt="waving hand" />
-</h1>
+</h1>-->
 
-<p>My name is <strong>Emad</strong>, and I am a Mobile Engineer from <strong>Palestine, Gaza 🇵🇸</strong>. Currently, I live in <strong>Cairo, Egypt 🇪🇬</strong>.</p>
+<!-- <p>My name is <strong>Emad</strong>, and I am a Mobile Engineer from <strong>Palestine, Gaza 🇵🇸</strong>. Currently, I live in <strong>Cairo, Egypt 🇪🇬</strong>.</p> -->
 
-<hr/>
+<!-- <hr/> -->
 
-<h3>Community contirbution: <img src="https://emoji.discadia.com/emojis/afb02e37-39c1-4a37-bfb2-5373c7493eef.GIF" height="30"/></h3>
+<h3>My Open-Source Projects Status: <img src="https://emoji.discadia.com/emojis/afb02e37-39c1-4a37-bfb2-5373c7493eef.GIF" height="30"/></h3>
 
 <table>
   <tr>
@@ -24,11 +24,15 @@
       <p><strong>Packages</strong></p>
     </td>
     <td align="center">
+      <h2>2 💡</h2>
+      <p><strong>AI SKILLS</strong></p>
+    </td>
+    <td align="center">
       <h2>1 🎮</h2>
       <p><strong>Games</strong></p>
     </td>
     <td align="center">
-      <h2>12 🧡</h2>
+      <h2>14 🧡</h2>
       <p><strong>Open source project</strong></p>
     </td>
   </tr>
@@ -72,7 +76,7 @@
 
 
 <br/>
-<h3>Open source projects <img src="https://emoji.discadia.com/emojis/bdc677ee-ce38-4c9d-bb50-cda8ca0d6775.GIF" width="25"/>:</h3>
+<h3>Active Open source projects <img src="https://emoji.discadia.com/emojis/bdc677ee-ce38-4c9d-bb50-cda8ca0d6775.GIF" width="25"/>:</h3>
 <table>
   <thead align="left">
     <tr border: none;>
@@ -101,6 +105,12 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/firebase_cloud_functions_emulator?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/firebase_cloud_functions_emulator?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/EmadBeltaje/flutter-slidable"><b>Flutter Slideable</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/flutter_slidable?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/flutter_slidable?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/flutter_slidable?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <!-- <tr>
       <td><a href="https://github.com/EmadBeltaje/otp_resend_timer"><b>Otp Resend Timer</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/otp_resend_timer?style=flat-square&labelColor=343b41"/></td>
@@ -114,10 +124,40 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/dart_unused_files?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/EmadBeltaje/cursor-appstore-upload-rules"><b>IOS upload automation</b></a></td>
+      <td><a href="https://github.com/EmadBeltaje/flutter-animator"><b>Flutter Animation AI-SKILL</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/flutter-animator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/flutter-animator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/flutter-animator?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/EmadBeltaje/cursor-appstore-upload-rules"><b>IOS upload automation SKILL</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/cursor-appstore-upload-rules?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/cursor-appstore-upload-rules?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/cursor-appstore-upload-rules?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/EmadBeltaje/dental-teeth-selector"><b>Teeth Selector</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/dental-teeth-selector?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/dental-teeth-selector?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/dental-teeth-selector?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/EmadBeltaje/flutter-animator-example"><b>Animation skill usecase</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/flutter-animator-example?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/flutter-animator-example?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/flutter-animator-example?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/EmadBeltaje/flutter-flame-coloring-game"><b>Animation skill usecase</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/flutter-flame-coloring-game?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/flutter-flame-coloring-game?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/flutter-flame-coloring-game?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/EmadBeltaje/otp_resend_timer"><b>OTP timer</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/otp_resend_timer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/otp_resend_timer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/otp_resend_timer?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -169,6 +209,32 @@
 </table>
 
 <br/>
+
+
+<h3>AI-SKILLS<img src="https://emoji.discadia.com/emojis/de4b6356-dab3-4c6c-a599-d3f5d9b28ae5.GIF" width="30"/>:</h3>
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>AI-SKILL</b></td>
+      <td><b>Description</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/emadbeltaje/cursor-appstore-upload-rules"><b>IOS Upload rules</b></a></td>
+      <td style="text-align: center;">Let AI-agent deploy IOS (Native, Flutter & React Native) app to store without you doing anything.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/emadbeltaje/flutter-animator"><b>Flutter Animator</b></a></td>
+      <td style="text-align: center;">Add cool animation to your flutter app in easy and efficient way</td>
+    </tr>
+  </tbody>
+</table> 
+
+
+<br/>
+
+
 <h3>Games (Flutter Flame) <img src="https://emoji.discadia.com/emojis/5ad2b0ea-2007-4b8c-80a3-fa600b4e8ec4.GIF" width="30"/>:</h3>
 <table>
   <thead align="center">
@@ -317,6 +383,7 @@
 <h3>Support <img src="https://emoji.discadia.com/emojis/de5c071f-8ae4-4144-83b2-f0cfe9f74e42.gif" height="20"/></h3>
 <p>Dont forget to take a look on my open source projects and follow me for updates.</p> -->
 
+<!--
 <br/>
 <h3>Technical Expertise <img src="https://emoji.discadia.com/emojis/caecbd46-4ce8-458b-9836-7e5f5863109b.gif" height="20"/>:</h3>
 <ul>
@@ -329,3 +396,4 @@
   <li>AI-Assisted Development</li>
   <li>Open Source Development</li>
 </ul>
+-->
