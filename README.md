@@ -1,11 +1,11 @@
-<!--<h1>
+<h1>
   Hello, folks! 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" alt="waving hand" />
-</h1>-->
+</h1>
 
-<!-- <p>My name is <strong>Emad</strong>, and I am a Mobile Engineer from <strong>Palestine, Gaza 🇵🇸</strong>. Currently, I live in <strong>Cairo, Egypt 🇪🇬</strong>.</p> -->
+<p>My name is <strong>Emad</strong>, I am a Mobile Engineer from <strong>Palestine, Gaza 🇵🇸</strong>. Currently, I live in <strong>Cairo, Egypt 🇪🇬</strong>.</p>
 
-<!-- <hr/> -->
+<br/>
 
 <h3>My Open-Source Projects Status: <img src="https://emoji.discadia.com/emojis/afb02e37-39c1-4a37-bfb2-5373c7493eef.GIF" height="30"/></h3>
 
@@ -38,7 +38,6 @@
   </tr>
 </table>
 
-<hr/>
 
 <!-- <h3>A bit about me: <img src="https://emoji.discadia.com/emojis/8011ddee-f73b-4216-87af-38dc674a1cb8.gif" height="20" alt="coding" /></h3>
 
@@ -142,7 +141,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/dental-teeth-selector?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/EmadBeltaje/flutter-animator-example"><b>Animation skill example</b></a></td>
+      <td><a href="https://github.com/EmadBeltaje/flutter-animator-example"><b>Flutter Animation Skill</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/flutter-animator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/flutter-animator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/flutter-animator?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/EmadBeltaje/flutter-animator-example"><b>Flutter Animator skill example</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/flutter-animator-example?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/flutter-animator-example?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/flutter-animator-example?style=flat-square&labelColor=343b41"/></td>
