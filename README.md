@@ -123,12 +123,6 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/dart_unused_files?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/EmadBeltaje/flutter-animator"><b>Flutter Animation AI-SKILL</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/flutter-animator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/flutter-animator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/flutter-animator?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/EmadBeltaje/cursor-appstore-upload-rules"><b>IOS upload automation SKILL</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/cursor-appstore-upload-rules?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/cursor-appstore-upload-rules?style=flat-square&labelColor=343b41"/></td>
@@ -141,7 +135,7 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/dental-teeth-selector?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/EmadBeltaje/flutter-animator-example"><b>Flutter Animation Skill</b></a></td>
+      <td><a href="https://github.com/EmadBeltaje/flutter-animator"><b>Flutter Animation AI-SKILL</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/flutter-animator?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/flutter-animator?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/flutter-animator?style=flat-square&labelColor=343b41"/></td>
