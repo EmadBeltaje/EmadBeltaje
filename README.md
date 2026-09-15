@@ -142,13 +142,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/dental-teeth-selector?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/EmadBeltaje/flutter-animator-example"><b>Animation skill usecase</b></a></td>
+      <td><a href="https://github.com/EmadBeltaje/flutter-animator-example"><b>Animation skill example</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/flutter-animator-example?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/flutter-animator-example?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/flutter-animator-example?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/EmadBeltaje/flutter-flame-coloring-game"><b>Animation skill usecase</b></a></td>
+      <td><a href="https://github.com/EmadBeltaje/flutter-flame-coloring-game"><b>Coloring Game</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/EmadBeltaje/flutter-flame-coloring-game?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/EmadBeltaje/flutter-flame-coloring-game?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/EmadBeltaje/flutter-flame-coloring-game?style=flat-square&labelColor=343b41"/></td>
