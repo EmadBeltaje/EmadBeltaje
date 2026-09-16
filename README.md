@@ -343,7 +343,7 @@
 <a href="mailto:emadbeltaje@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/201112922252" target="_blank">
+  <a href="https://wa.me/201092383251" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
    <a href="https://facebook.com/EmadBeltaje" target="_blank">
@@ -362,7 +362,7 @@
   <a href="mailto:emadbeltaje@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20Gmail-emadbeltaje@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/201112922252" target="_blank">
+  <a href="https://wa.me/201092383251" target="_blank">
     <img src="https://img.shields.io/badge/%20WhatsApp-Text%20Me-25D366?style=flat&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://t.me/EmadBeltaje" target="_blank">
