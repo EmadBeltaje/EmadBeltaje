@@ -24,16 +24,16 @@
       <p><strong>Packages</strong></p>
     </td>
     <td align="center">
-      <h2>2 💡</h2>
+      <h2>3 💡</h2>
       <p><strong>AI SKILLS</strong></p>
     </td>
     <td align="center">
       <h2>1 🎮</h2>
-      <p><strong>Games</strong></p>
+      <p><strong>Game</strong></p>
     </td>
     <td align="center">
       <h2>14 🧡</h2>
-      <p><strong>Open source project</strong></p>
+      <p><strong>Open source projects</strong></p>
     </td>
   </tr>
 </table>
@@ -227,6 +227,10 @@
       <td><a href="https://github.com/emadbeltaje/flutter-animator"><b>Flutter Animator</b></a></td>
       <td style="text-align: center;">Add cool animation to your flutter app in easy and efficient way</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/emadbeltaje/flutter-ux-master"><b>Flutter UX Master</b></a></td>
+      <td style="text-align: center;">Discover every UX violation on your flutter code</td>
+    </tr>
   </tbody>
 </table> 
 
@@ -263,6 +267,11 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/felangel/mason/pull/1391"><b>Mason</b></a></td>
+      <td>Merged ✅</td>
+      <td>Add new feature</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/onepub-dev/dcli/pull/249"><b>dcli</b></a></td>
       <td style="text-align: center;">Merged ✅</td>
       <td>Add new feature</td>
@@ -271,11 +280,6 @@
       <td><a href="https://github.com/AbdQader/flutter_ecommerce_app/pull/1"><b>ecommerce_app</b></a></td>
       <td>Merged ✅</td>
       <td>Update old project</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/felangel/mason/pull/1391"><b>Mason</b></a></td>
-      <td>Merged ✅</td>
-      <td>Add new feature</td>
     </tr>
      <tr>
       <td><a href="https://github.com/jonataslaw/get_cli/pull/275"><b>get_cli</b></a></td>
